@@ -1,0 +1,3 @@
+The protocol used for collecting data can be found in contiki/examples/rime folder in example_mesh.c program.
+For creating the database and saving the data collected by the sink node connected at the port can be found in contiki/examples/rime/database folder
+For preprocessing the data so that it can be used can be found in the path contiki/example/rime/data-preprocessing

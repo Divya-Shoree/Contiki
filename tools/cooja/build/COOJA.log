@@ -1,0 +1,31 @@
+[00:42:52 - main] [Cooja.java:3172] [WARN] - JAVA_HOME environment variable not set, Cooja motes may not compile
+[00:42:53 - AWT-EventQueue-0] [Cooja.java:2856] [INFO] - External tools default settings: /external_tools_linux_64.config
+[00:42:53 - AWT-EventQueue-0] [Cooja.java:2886] [INFO] - External tools user settings: /root/.cooja.user.properties
+[00:43:06 - AWT-EventQueue-0] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[00:43:06 - AWT-EventQueue-0] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[00:43:20 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make collect-view-shell.sky TARGET=sky 
+[00:43:28 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make collect-view-shell.sky TARGET=sky 
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:33 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:34 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:34 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:34 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:34 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:34 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:34 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/divya/contiki/examples/collect/collect-view-shell.sky
+[00:43:52 - Thread-2] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1570401832383
+[00:46:46 - read input stream thread] [CollectView.java:237] [FATAL] - The CollectView application died!
+[00:46:56 - Thread-2] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1570402016785	Duration: 184402 ms	Simulated time 155256 ms	Ratio 0.8419431459528639
+[00:46:56 - AWT-EventQueue-0] [AbstractRadioMedium.java:196] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@d2de4fa
